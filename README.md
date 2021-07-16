@@ -9,24 +9,20 @@
 <a href="https://twitter.com/intent/follow?screen_name=ankityadavhere"><img alt="twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fscreen_name%3Dankityadavhere&label=Follow"></a>
 </p>
 
-# Windows 11 home screen recreated with Pure HTML, CSS and vanilla Js
+# Копия интерфейса Windows 11 в браузере
 
-It's not complete UI but looks good enough ;)
+Разработка интерфейса ещё не закончена :)
 
 ![Sample Image](assets/demo/image-1.png)
 
 ![Sample Image](assets/demo/image-2.png)
 
-## QuickStart
+## Начало
 
-- Fork the repo
+- Склонируйте репозиторий на сервер/компьютер,
 
-- Clone the repo into your local environment
+- Откройте index.html через веб-сервер (например NGINX или Apache).
 
-- Open `index.html` with live server, it'll start at port `5500`
+- Откройте страницу директории, где вы разместили файлы
 
-- Enter in browser
-
-```bash
-localhost:5500
-```
+- И, вуаля!
